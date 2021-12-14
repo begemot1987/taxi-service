@@ -32,5 +32,3 @@
    6. Change `src/main/resources/log4j2.xml`. At line `<File name="LogToFile" fileName="E:\Mate\Projects\taxi_service\logs\app.log">` 
 replace fileName with absolute path to `.log` file
    7. Run the application
-
-
