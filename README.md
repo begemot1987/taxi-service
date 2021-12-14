@@ -17,6 +17,7 @@
 ## Used technologies
    * Apache Tomcat (v9.0.50)
    * MySQL
+   * Logging (Log4J v2.14.1)
    * JDBC
    * JSP
    * Maven
